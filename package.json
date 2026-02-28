@@ -1,0 +1,16 @@
+{
+  "name": "slack-miner",
+  "version": "3.0.0",
+  "description": "Fetch Slack conversations you are part of and dump them to JSON",
+  "main": "init.js",
+  "scripts": {
+    "start": "node init.js"
+  },
+  "keywords": ["slack", "messages"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/web-api": "^7.10.0",
+    "inquirer": "^8.2.7"
+  }
+}
