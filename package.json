@@ -3,6 +3,9 @@
   "version": "3.0.0",
   "description": "Fetch Slack conversations you are part of and dump them to JSON",
   "main": "init.js",
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
     "start": "node init.js"
   },

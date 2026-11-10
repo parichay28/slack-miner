@@ -4,6 +4,8 @@ Extract all your Slack messages, threads, and complete conversations with an int
 
 ## Quick Start
 
+Requires Node.js 18+.
+
 1. **Install dependencies**
    ```bash
    npm install
